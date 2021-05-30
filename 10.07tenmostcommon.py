@@ -1,5 +1,5 @@
 #Open the File
-fhand = open('romeo.txt')
+fhand = open('mbox-short.txt')
 counts = dict()
 
 #read the lines
